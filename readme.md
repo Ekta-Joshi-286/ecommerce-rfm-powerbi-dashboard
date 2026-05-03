@@ -88,7 +88,7 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+([dashboard.png](https://github.com/Ekta-Joshi-286/ecommerce-rfm-powerbi-dashboard/blob/main/dashboard.png))
 
 ---
 
